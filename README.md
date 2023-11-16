@@ -1,5 +1,5 @@
 # Assessment
-Tech: .net core 6.0,SQL Server
+Technology Used: .net core 6.0,SQL Server
 
 Task 1: Building a Simple API
 Create a basic API using ASP.NET Core that allows users to retrieve a list
