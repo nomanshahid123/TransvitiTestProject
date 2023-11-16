@@ -1,4 +1,4 @@
-# Assesment
+# Assessment
 Tech: .net core 6.0,SQL Server
 
 Task 1: Building a Simple API
